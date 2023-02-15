@@ -1,0 +1,24 @@
+{
+  "name": "notes-server",
+  "version": "1.0.0",
+  "description": "Simple serveur de gestion de notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLLoReal/notes.git"
+  },
+  "keywords": [
+    "Notes",
+    "server",
+    "node"
+  ],
+  "author": "iLLo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLLoReal/notes/issues"
+  },
+  "homepage": "https://github.com/iLLoReal/notes#readme"
+}
