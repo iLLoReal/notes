@@ -1,5 +1,7 @@
-<h1>Projet de gestion de notes full stack</h1>
-
+<h1>Notes</h1>
+<section>
+  Projet de gestion de notes full stack
+</section>
 <h2>front</h2>
 <ul>
     <li>React</li>
