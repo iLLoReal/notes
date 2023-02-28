@@ -4,14 +4,13 @@
 </section>
 <h2>front</h2>
 <ul>
-    <li>React</li>
-    <li>TypeScript</li>
+    <li>React (18.2.0)</li>
+    <li>TypeScript (4.9.5)</li>
 </ul>
 <h2>back</h2>
 <ul>
-  <li>Node</li>
-  <li>Express</li>
-  <li>MongoDB</li>
-  <li>Mongoose</li>
-  <li>TypeScript</li>
+  <li>Node (>=12.0.0) / Express (4.18.2)</li>
+  <li>MongoDB (incoming) </li>
+  <li>Mongoose (incoming) </li>
+  <li>TypeScript (incoming) </li>
 </ul>
