@@ -12,5 +12,5 @@
   <li>Node (>=12.0.0) / Express (4.18.2)</li>
   <li>MongoDB (incoming) </li>
   <li>Mongoose (incoming) </li>
-  <li>TypeScript (incoming) </li>
+  <li>TypeScript (4.9.5) </li>
 </ul>
