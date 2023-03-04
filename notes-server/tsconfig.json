@@ -13,7 +13,7 @@
         "esModuleInterop": true
     },
     "files": [
-        "app.ts",
-        "server.ts"
+        "src/app.ts",
+        "src/server/server.ts"
     ]
 }

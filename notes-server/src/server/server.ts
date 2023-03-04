@@ -1,5 +1,6 @@
 
-import server from './app';
+import server from '../app';
+
 
 const hostname = '127.0.0.1';
 const port = 3000;
